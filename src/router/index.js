@@ -5,7 +5,6 @@ import { getStore, setStore } from '@/utils/localStorage';
 import Layout from '@/views/layout/Index';
 import Cookies from 'js-cookie';
 // import { MessageBox } from 'element-ui';
-
 // import { isNull } from '@/utils/common';
 // import user from "../store/modules/user";
 
